@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="register_app_name">La Delicia Restaurant</string>
+    <string name="register_title">Registrate</string>
+    <string name="register_input_hint_fullName">Nombre</string>
+    <string name="register_fullName_input_content_description_end_icon">Nombre</string>
+    <string name="register_fullName_input_hint">Nombre</string>
+    <string name="register_nickname_input_hint">Usuario</string>
+    <string name="register_nickname_input_content_description_end_icon">Usuario</string>
+    <string name="register_phoneNumber_input_hint">Celular</string>
+    <string name="register_phoneNumber_input_content_description_end_icon">Celular</string>
+    <string name="register_password_input_hint">Contraseña</string>
+    <string name="register_password_input_content_description_end_icon">Contraseña</string>
+    <string name="login_title">Iniciar Sesion</string>
+</resources>
